@@ -1,0 +1,8 @@
+1.	Is there a statistically significant difference in average sleep time between students who smoke and those who don't?
+2.	Do athletes have a higher average writing score compared to non-athletes?
+3.	Is there a statistically significant difference in average exam scores (English, Reading, Math, Writing) across different states?
+4.	Do students who live on campus have significantly different average English scores compared to commuting students?
+5.	Is there a significant difference in average sleep time between male and female students?
+6.	Does being an athlete affect a student's average study time?
+
+Answers are here: https://github.com/MwangiSara/Advanced-Data-Science/blob/master/inferential%20EDA/inferential%20assignment.ipynb 
